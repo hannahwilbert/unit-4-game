@@ -62,8 +62,6 @@ $(document).on('click', ".crystal", function () {
         resetAndStart();
     }
 
- 
-
 
 });
 
