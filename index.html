@@ -7,9 +7,22 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Federant|Source+Sans+Pro" rel="stylesheet">
 
 </head>
 <body>
+    <div class="container">
+
+        <div class="header">
+            <h1>Crystals Collector</h1>
+        </div>
+
+        <div class="instructions">
+            <p>Try to match the number below by collecting crystals.  Each crystal holds a specific amount of points and your job is to collect the crystals until they add up to the total score. </p>
+            <p>Be careful, because if you collect a crystal that adds too many points to your score, you will lose the game! </p>
+        </div>
+
+
     <div class="result">
     <p>result</p>
 </div>
@@ -18,9 +31,12 @@
 
     </div>
 
-   <p id="win"></p>
-   <p id="lost"></p>
+     <p id="previous"></p>
+
+   <p id="win">Wins: </p>
+   <p id="lost">Losses :</p>
 
     <script type="text/javascript" src="assets/javascript/game.js"></script>
+</div>
 </body>
 </html>
