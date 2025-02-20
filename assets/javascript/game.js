@@ -7,8 +7,8 @@ var resetAndStart = function () {
     $(".crystals").empty();
 
     var images = [
-        'https://ae01.alicdn.com/kf/HTB1qMDtdGQoBKNjSZJnq6yw9VXaS/145g-natural-red-quartz-cluster-beautiful-red-aura-angel-crystal-cluster-reiki-Titanium-coating-cluster-healing.jpg_640x640.jpg',
-        'https://file.aiquickdraw.com/imgcompressed/img/compressed_13951af38c66c40b2fbc4698e85b4247.webp',
+        'https://rockswithsass.com/cdn/shop/files/Green_Aventurine_52f83578-9603-41d7-81b1-8fbb6ec56026_1600x.png?v=1657055971',
+        'https://www.pngall.com/wp-content/uploads/14/Crystal-PNG-Pic.png',
         'https://www.pikpng.com/pngl/b/233-2336809_crystals-tumblr-png-clipart.png',
         'https://atlas-content-cdn.pixelsquid.com/stock-images/clear-quartz-crystals-crystal-D5QkYm9-600.jpg',];
 
