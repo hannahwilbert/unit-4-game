@@ -9,8 +9,8 @@ var resetAndStart = function () {
     var images = [
         'https://ae01.alicdn.com/kf/HTB1qMDtdGQoBKNjSZJnq6yw9VXaS/145g-natural-red-quartz-cluster-beautiful-red-aura-angel-crystal-cluster-reiki-Titanium-coating-cluster-healing.jpg_640x640.jpg',
         'http://www.thecrystalhealer.co.uk/WebRoot/Eclipse/Shops/thecrystalhealer/5470/A117/5364/C383/74EE/0A33/658A/F448/Titanium-quartz-13_ml.jpg',
-        'https://images-na.ssl-images-amazon.com/images/I/718V7SFfzpL._SL1200_.jpg',
-        'https://images-na.ssl-images-amazon.com/images/I/81gB58rGmcL._SY355_.jpg',];
+        'https://www.pikpng.com/pngl/b/233-2336809_crystals-tumblr-png-clipart.png',
+        'https://atlas-content-cdn.pixelsquid.com/stock-images/clear-quartz-crystals-crystal-D5QkYm9-600.jpg',];
 
 
     random_result = Math.floor((Math.random() * 69) + 30);
